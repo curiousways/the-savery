@@ -4,7 +4,7 @@ const Home: NextPage = () => {
   return (
     <>
       <div>
-        <h1>Next Project Starter</h1>
+        <h1>The Savery</h1>
       </div>
     </>
   );

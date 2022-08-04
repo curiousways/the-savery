@@ -11,7 +11,6 @@ import Nav from "@/components/common/Nav";
 import Footer from "@/components/common/Footer";
 
 import "../styles/globals.css"; // Global style sheet for css
-// import "../styles/global.scss"; //Global stylesheet for sass
 
 function MyApp({ Component, pageProps }: AppProps) {
   const router = useRouter();

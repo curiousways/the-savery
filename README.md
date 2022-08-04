@@ -1,4 +1,4 @@
-# NEXT-TYPESCRIPT STARTER
+# THE SAVERY
 
 <p>
   <a aria-label="Next js logo" href="https://nextjs.org">
